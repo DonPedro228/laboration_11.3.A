@@ -1,0 +1,5 @@
+﻿  laboration_11.3.A.cpp
+C:\Users\zoyad\OneDrive\Рабочий стол\Student\laboration_11.3 A\laboration_11.3.A.cpp(208,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\zoyad\OneDrive\Рабочий стол\Student\laboration_11.3 A\laboration_11.3.A.cpp(253,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\zoyad\OneDrive\Рабочий стол\Student\laboration_11.3 A\laboration_11.3.A.cpp(298,15): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  laboration_11.3 A.vcxproj -> C:\Users\zoyad\OneDrive\Рабочий стол\Student\laboration_11.3 A\x64\Debug\laboration_11.3 A.exe
